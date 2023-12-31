@@ -8,7 +8,7 @@ This website allows users to search for and view information about their favorit
 <a href="https://github.com/ZulfiqarG/movieapp"><strong>Explore the docs »</strong></a>
 <br />
 <br />
-<a href="#">View Live Deployment</a>
+<a href="https://zulfiqarg.github.io/movieapp/">View Live Deployment</a>
 ·
 <a href="https://github.com/ZulfiqarG/movieapp/issues">Report Bug</a>
 ·
